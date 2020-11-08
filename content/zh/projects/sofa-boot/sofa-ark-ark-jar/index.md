@@ -33,7 +33,7 @@ aliases: "/sofa-boot/docs/sofa-ark-ark-jar"
                 <goals>
                     <goal>repackage</goal>
                 </goals>
-            </excution>
+            </execution>
         </executions>
         <configuration>
             <!-- 配置信息 -->
